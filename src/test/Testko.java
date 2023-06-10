@@ -1,3 +1,3 @@
 public class Testko {
-int i=2;
+int i=10;
 }
